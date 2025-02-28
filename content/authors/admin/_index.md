@@ -59,9 +59,6 @@ education:
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - 
-      
   - area: Спортивное обучение
     institution: ГБОУ ДО "Детско-юношеская спортивная школа" г. Ставрополя
     date_start: 2014-01-01
@@ -72,6 +69,16 @@ education:
       Courses included:
       - 
 
+experiences:
+  - title: Студент
+    company: Российский университет дружбы народов (РУДН)
+    location: Москва, Россия
+    date_start: "2024-09-01"
+    date_end: "2028-08-31"
+    summary: |
+      Специализация: компьютерные науки.
+      Основные предметы: программирование, алгоритмы, базы данных.
+      
 work:
   - position: 
     company_name: 
@@ -79,50 +86,35 @@ work:
     company_logo: ''
     date_start: 
     date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - 
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: 
-    summary: |
-      Responsibilities include:
-      - 
-
+    summary: 
+    
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: languages
+        description: 'I fluently speak English and know some French and German'
+        percent: 90
+        icon: language
+      - name: Programming
+        description: 'I am learning Python and C++'
+        percent: 60
+        icon: keyboard
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Running
-        description: ''
+        description: 'I love being active'
         percent: 60
         icon: person-simple-walk
       - name: Cats
-        description: ''
+        description: 'I love my cat'
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
+        description: 'I like to capture best moments of my life'
         percent: 80
         icon: camera
 
@@ -135,20 +127,19 @@ languages:
     percent: 30
   - name: German
     percent: 40
+        
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 
-    url: 
-    date: ''
-    awarder: 
-    icon: 
+  - title: Историческая антропология 
+    url: https://stepik.org/course/Историческая-антропология-720/
+    date: '2025-02-01'
+    awarder: Stepik
     summary: |
-      
-      
+        Прошла курс по исторической антропологии, получила сертификат с отличием 
 ---
 
 ## About Me
