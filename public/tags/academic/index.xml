@@ -47,6 +47,40 @@
     </item>
     
     <item>
+      <title>Прошедшая неделя</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#масленица&#34;&gt;Масленица&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#домашка&#34;&gt;Домашка&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#угощение&#34;&gt;Угощение&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#оценка-недели&#34;&gt;Оценка недели&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#дам-810-стало-интереснее&#34;&gt;Дам 8/10. Стало интереснее.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;масленица&#34;&gt;Масленица&lt;/h2&gt;
+&lt;p&gt;На днях у главного корпуса устроили Масленицу с песнями и плясками. Раздавали всем вблины и чай. Получилось очень атмосферно и красиво, я даже захотела дома испечь блины.&lt;/p&gt;
+&lt;h2 id=&#34;домашка&#34;&gt;Домашка&lt;/h2&gt;
+&lt;p&gt;Делать лабораторные работы по операционным системам до двух ночи продолжаем. Сложно ужасно, времени тратится уйма, но прогресс есть&lt;/p&gt;
+&lt;h2 id=&#34;угощение&#34;&gt;Угощение&lt;/h2&gt;
+&lt;p&gt;В четверг поздравляли одногруппников с 23 февраля. Заказали пиццу и вместе посидели в столовой, получилось мило.&lt;/p&gt;
+&lt;h2 id=&#34;оценка-недели&#34;&gt;Оценка недели&lt;/h2&gt;
+&lt;h2 id=&#34;дам-810-стало-интереснее&#34;&gt;Дам 8/10. Стало интереснее.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Управление версиями</title>
       <link>http://localhost:1313/post/get-started/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>

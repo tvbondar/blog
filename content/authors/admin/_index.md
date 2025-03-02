@@ -30,12 +30,17 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0003-8452-8792
+  - icon: brands/researchgate
+    url: https://www.researchgate.net/profile/Tatiana-Bondar-4?ev=hdr_xprf
   - icon: at-symbol
     url: 'sinopahfox@yandex.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/tvbondar
-    
+  - icon: brands/etsy
+    url:  https://elibrary.ru/project_user_office.asp
 
 interests:
   - Компьютерные науки
