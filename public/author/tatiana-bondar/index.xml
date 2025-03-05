@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tatiana Bondar | Бондарь Т. В.</title>
+    <link>http://localhost:1313/author/tatiana-bondar/</link>
+      <atom:link href="http://localhost:1313/author/tatiana-bondar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tatiana Bondar</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/author/tatiana-bondar/avatar_hu_49f19ce35423654a.jpg</url>
+      <title>Tatiana Bondar</title>
+      <link>http://localhost:1313/author/tatiana-bondar/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>http://localhost:1313/event/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/event/example/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Hugo Blox Builder&amp;rsquo;s &lt;a href=&#34;https://docs.hugoblox.com/reference/content-types/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post4/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post4/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#march-8&#34;&gt;March 8&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#pampered-myself&#34;&gt;Pampered myself&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#day-off&#34;&gt;Day off&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#rating&#34;&gt;Rating&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#910-still-have-a-lot-to-do&#34;&gt;9/10, still have a lot to do&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;march-8&#34;&gt;March 8&lt;/h2&gt;
+&lt;p&gt;On the holiday, Max decided to take revenge on me for all the good things and took me to the roller coaster at an amusement park. Let&amp;rsquo;s skip the fact that the screaming was a mile away. Then I was compensated for the moral damage with a bouquet of dried flowers and a trip to a restaurant.&lt;/p&gt;
+&lt;h2 id=&#34;pampered-myself&#34;&gt;Pampered myself&lt;/h2&gt;
+&lt;p&gt;Finally ordered myself a new face wash, toner, creams and masks. All week after classes in the evening I arranged spa treatments for myself.&lt;/p&gt;
+&lt;h2 id=&#34;day-off&#34;&gt;Day off&lt;/h2&gt;
+&lt;p&gt;I went to the gym, trained, caught zen&lt;/p&gt;
+&lt;h2 id=&#34;rating&#34;&gt;Rating&lt;/h2&gt;
+&lt;h2 id=&#34;910-still-have-a-lot-to-do&#34;&gt;9/10, still have a lot to do&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post1/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post1/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#ramt&#34;&gt;RAMT&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#classes&#34;&gt;Classes&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#rating-of-the-week&#34;&gt;Rating of the week&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ill-give-it-610-i-spend-a-lot-of-time-on-assignments-now-as-soon-as-i-finish-them-i-need-to-go-and-unwind&#34;&gt;I&amp;rsquo;ll give it 6/10. I spend a lot of time on assignments now. As soon as I finish them, I need to go and unwind.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;ramt&#34;&gt;RAMT&lt;/h2&gt;
+&lt;p&gt;Back in late December we bought tickets to RAMT for the operetta &amp;ldquo;Scarlet Sails&amp;rdquo;. We went on the weekend, generally liked the costumes and songs. I was disappointed in the scenery, and I also didn&amp;rsquo;t understand why Gray looks like he&amp;rsquo;s 20 years older than Assol and why he didn&amp;rsquo;t buy scarlet fabric for the sails, like in the story, but just poured wine on the white sails. I didn&amp;rsquo;t get the joke, why waste wine, all the romance was ruined. Rating: 7/10&lt;/p&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;p&gt;Doing lab work on operating systems until 2am is already normal. It&amp;rsquo;s terribly difficult, a lot of time is wasted, I hope to cope with it faster.&lt;/p&gt;
+&lt;h2 id=&#34;classes&#34;&gt;Classes&lt;/h2&gt;
+&lt;p&gt;The schedule is good this semester, lots of online classes, 3 days of in-person study with 2 classes. I saw my classmates, I&amp;rsquo;m glad that now there is a lot of time for self-study.&lt;/p&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;h2 id=&#34;ill-give-it-610-i-spend-a-lot-of-time-on-assignments-now-as-soon-as-i-finish-them-i-need-to-go-and-unwind&#34;&gt;I&amp;rsquo;ll give it 6/10. I spend a lot of time on assignments now. As soon as I finish them, I need to go and unwind.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post3/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post3/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#maslenitsa&#34;&gt;Maslenitsa&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#treats&#34;&gt;Treats&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#rating-of-the-week&#34;&gt;Rating of the week&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#ill-give-it-810-it-became-more-interesting&#34;&gt;I&amp;rsquo;ll give it 8/10. It became more interesting.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;maslenitsa&#34;&gt;Maslenitsa&lt;/h2&gt;
+&lt;p&gt;The other day, Maslenitsa was held near the main building with songs and dances. Everyone was given pancakes and tea. It turned out very atmospheric and beautiful, I even wanted to bake pancakes at home.&lt;/p&gt;
+&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
+&lt;p&gt;We continue to do lab work on operating systems until two in the morning. It&amp;rsquo;s terribly difficult, a lot of time is wasted, but there is progress&lt;/p&gt;
+&lt;h2 id=&#34;treats&#34;&gt;Treats&lt;/h2&gt;
+&lt;p&gt;On Thursday, we congratulated our classmates on February 23. We ordered pizza and sat together in the dining room, it was nice.&lt;/p&gt;
+&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
+&lt;h2 id=&#34;ill-give-it-810-it-became-more-interesting&#34;&gt;I&amp;rsquo;ll give it 8/10. It became more interesting.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Last week</title>
+      <link>http://localhost:1313/post/post6/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post6/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#march-8th-in-the-main-building&#34;&gt;March 8th in the main building&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#gifts-for-girls&#34;&gt;Gifts for girls&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#going-to-the-cinema&#34;&gt;Going to the cinema&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#result&#34;&gt;Result&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;march-8th-in-the-main-building&#34;&gt;March 8th in the main building&lt;/h2&gt;
+&lt;p&gt;For the holiday, the main building held a campaign with the distribution of cute stickers and you could send a postcard with wishes to any person from the university. I like the idea, very cute&lt;/p&gt;
+&lt;h2 id=&#34;gifts-for-girls&#34;&gt;Gifts for girls&lt;/h2&gt;
+&lt;p&gt;I made teddy bears for the girls and gave them. The bears turned out crooked, but cute.&lt;/p&gt;
+&lt;h2 id=&#34;going-to-the-cinema&#34;&gt;Going to the cinema&lt;/h2&gt;
+&lt;p&gt;Went with my boyfriend to see Deadpool 3. I liked it, and this little bugger fell asleep in the middle of the screening. I was offended.&lt;/p&gt;
+&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
+&lt;p&gt;A very calm and sweet week, 9/10&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/post/post2/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post2/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#markup-language&#34;&gt;Markup language&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#basic-markdown-commands&#34;&gt;Basic Markdown Commands&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#markdown-is-easily-converted-to-html-opens-in-all-text-editors-and-is-easy-to-read-even-in-the-form-of-source-code-at-the-same-time-it-is-much-easier-to-write-in-it-than-in-other-markup-languages-html-xml-tex-and-so-on&#34;&gt;The Markdown markup language is widely used on the web. It is used to write readme files and documentation, and its operating principles are used to format messages and publications in instant messengers and social networks.
+Markdown is easily converted to HTML, opens in all text editors and is easy to read even in the form of source code. At the same time, it is much easier to write in it than in other markup languages: HTML, XML, TeX, and so on.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;markup-language&#34;&gt;Markup language&lt;/h2&gt;
+&lt;p&gt;In the IT sphere, a markup language is a certain set of symbols and their sequences, embedded in the text in order to convey information about the structure of this document and its final form. As a result, the text document looks like a text with all punctuation marks, supplemented by code with information about the structure of this text.
+Markdown is a lightweight markup language that converts text into structured HTML. It can be opened and edited in any text editor. It is widely used for writing documentation and README files.&lt;/p&gt;
+&lt;h2 id=&#34;basic-markdown-commands&#34;&gt;Basic Markdown Commands&lt;/h2&gt;
+&lt;p&gt;To create a heading, use the ( # ) sign.
+To make text bold, enclose it in double asterisks.
+To make text italic, enclose it in single asterisks.
+To make text bold and italic, enclose it in triple asterisks.
+Blockquotes are created using the &amp;gt; symbol.
+An unordered (bulleted) list can be formatted using asterisks or dashes.
+To nest one list within another, indent the child list items.
+An ordered list can be formatted using the appropriate numbers.
+To nest one list within another, indent the child list items.
+The Markdown syntax for an inline link consists of a [link text] part, which is the hyperlink text, and a (file-name.md) part, which is the URL or file name of the file being linked to.
+Markdown supports both embedding code fragments in a sentence and placing them between sentences as separate fenced blocks. Fenced code blocks are an easy way to highlight the syntax for code fragments.
+Inline formulas are made similar to LaTeX formulas.
+We will use Pandoc to process files in Markdown format. Specifically, we will need the pandoc program,
+pandoc-citeproc &lt;a href=&#34;https://github.com/jgm/pandoc/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/jgm/pandoc/releases&lt;/a&gt;, pandoc-crossref
+&lt;a href=&#34;https://github.com/lierdakil/pandoc-crossref/releases&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/lierdakil/pandoc-crossref/releases&lt;/a&gt;.
+You can transform the README.md file as follows:
+1 pandoc README.md -o README.pdf
+or like this
+1 pandoc README.md -o README.docx
+You can use the following Makefile
+1 FILES = $(patsubst %.md, %.docx, $(wildcard *.md))
+2 FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;markdown-is-easily-converted-to-html-opens-in-all-text-editors-and-is-easy-to-read-even-in-the-form-of-source-code-at-the-same-time-it-is-much-easier-to-write-in-it-than-in-other-markup-languages-html-xml-tex-and-so-on&#34;&gt;The Markdown markup language is widely used on the web. It is used to write readme files and documentation, and its operating principles are used to format messages and publications in instant messengers and social networks.
+Markdown is easily converted to HTML, opens in all text editors and is easy to read even in the form of source code. At the same time, it is much easier to write in it than in other markup languages: HTML, XML, TeX, and so on.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Report design</title>
+      <link>http://localhost:1313/post/post5/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post5/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#title-page&#34;&gt;Title page&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#objective-of-the-work&#34;&gt;Objective of the work&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#task&#34;&gt;Task&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#theoretical-introduction&#34;&gt;Theoretical introduction&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#completion-of-the-laboratory-work&#34;&gt;Completion of the laboratory work&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#conclusions&#34;&gt;Conclusions&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#reports-must-be-prepared-for-each-laboratory-work&#34;&gt;Reports must be prepared for each laboratory work&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;title-page&#34;&gt;Title page&lt;/h2&gt;
+&lt;p&gt;We write the topic of the work, the author and the subject&lt;/p&gt;
+&lt;h2 id=&#34;objective-of-the-work&#34;&gt;Objective of the work&lt;/h2&gt;
+&lt;p&gt;Here is the formulation of the objective of the lab work. The formulations of the
+objective for each lab work are given in the methodological
+instructions.&lt;/p&gt;
+&lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;
+&lt;p&gt;Here is a description of the task in accordance with the recommendations
+of the methodological manual and the issued version.&lt;/p&gt;
+&lt;h2 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h2&gt;
+&lt;p&gt;Here are described the theoretical aspects related to the work.&lt;/p&gt;
+&lt;h2 id=&#34;completion-of-the-laboratory-work&#34;&gt;Completion of the laboratory work&lt;/h2&gt;
+&lt;p&gt;The actions performed are described, as an illustration a link to the illustration is given&lt;/p&gt;
+&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
+&lt;p&gt;Here is a brief description of the results of the work done.&lt;/p&gt;
+&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
+&lt;p&gt;A list of used literature is provided&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;h2 id=&#34;reports-must-be-prepared-for-each-laboratory-work&#34;&gt;Reports must be prepared for each laboratory work&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific Programming Languages</title>
+      <link>http://localhost:1313/post/post7/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/post7/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#thus-each-of-the-listed-languages-is-specialized-to-solve-a-certain-type-of-problem-the-choice-of-the-appropriate-language-depends-on-the-goals-and-objectives-of-the-programmer&#34;&gt;Thus, each of the listed languages ​​is specialized to solve a certain type of problem. The choice of the appropriate language depends on the goals and objectives of the programmer.&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;p&gt;There are hundreds of programming languages ​​in the world today - how to choose the best one to learn? We publish a list of the most popular options.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Bash Unix shell scripting, created by Ken Thompson in the early 1970s, is closely related to the C programming language. Bash, an updated Unix shell, was first released in the late 80s and is still actively developed. Bash is commonly used for writing server configuration scripts, making it a good choice for working in modern cloud environments with container storage and microservices. Shell scripting is used quite often, so knowing this language will come in handy.&lt;/li&gt;
+&lt;li&gt;C/C++ These languages ​​often occupy the top of various rankings - they are valued for their power and speed. C was created in the early 1970s by Dennis Ritchie, C++ was developed in 1985 by Bjarne Stroustrup. Today, these two languages ​​underlie everything from operating systems and games to modern scientific computing and machine learning. C and C++ are well suited for demanding applications that require low-level access to hardware and performance. Learning these languages ​​takes time and some effort.&lt;/li&gt;
+&lt;li&gt;C# C#, released by Microsoft in 2000, was developed by Anders Hejlsberg as a cross-platform object-oriented programming language. Nowadays, it is often used to develop business applications, APIs, games, and more. Its wide range of features makes it suitable for graphics and other asynchronous programming tasks.&lt;/li&gt;
+&lt;li&gt;Java Java is a general-purpose object-oriented programming language developed in the 1990s by James Gosling at Sun (now owned by Oracle) and designed to be compiled into bytecode to run on the Java Virtual Machine. By 2020, these include almost every kind of device, from TVs and game consoles to servers, phones, and even kitchen appliances. The language is widely used in corporations and universities, making it popular with both novice programmers and experienced developers.&lt;/li&gt;
+&lt;li&gt;JavaScript JavaScript was developed by Brandon Eich in the 1990s to add script execution to websites. Today, it is a universal web interface language with powerful, standardized features that are supported by all major browsers. JavaScript follows the EcmaScript standard, which is updated every few years with new language specifications. JavaScript is also commonly used to develop server-side services and APIs, mobile apps, games, and other software. It is a great choice for learning and improving.&lt;/li&gt;
+&lt;li&gt;Python Introduced in 1991 by Guido van Rossum, Python was conceived as a readable language with OOP features that uses functional paradigms to build clean and well-organized programs. Python has support on major platforms and is used in a variety of fields, including science, data mining, artificial intelligence, computer graphics for feature films, cloud computing, game development, and many others. Python has proven itself and will remain one of the most in-demand tools for a long time.&lt;/li&gt;
+&lt;li&gt;SQL SQL is a general-purpose programming language, but is a powerful domain-specific language for managing relational databases. Its use cases range from Fortune 500 data warehouses to embedded SQLite, and it is widely used in desktop and mobile applications. Many IT and development positions require at least basic knowledge of SQL. Advanced skills allow a developer to create extremely secure and reliable domain rules independent of the programming language or SDK used. High-profile implementations include Microsoft SQL Server, Oracle Database, and PostgreSQL. Each of them has a unique extension of the SQL language and offers new features that go beyond the basic SQL specification. Learning SQL does not take much time and is useful in many areas from analytics and data processing to IT management and software development.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;thus-each-of-the-listed-languages-is-specialized-to-solve-a-certain-type-of-problem-the-choice-of-the-appropriate-language-depends-on-the-goals-and-objectives-of-the-programmer&#34;&gt;Thus, each of the listed languages ​​is specialized to solve a certain type of problem. The choice of the appropriate language depends on the goals and objectives of the programmer.&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Version control system</title>
+      <link>http://localhost:1313/post/get-started/</link>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/get-started/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#version-control-systems&#34;&gt;Version control systems&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#git-advantages-and-disadvantages&#34;&gt;Git. Advantages and Disadvantages&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#advantages-of-git&#34;&gt;Advantages of Git&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#disadvantages-of-git&#34;&gt;Disadvantages of Git&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;version-control-systems&#34;&gt;Version control systems&lt;/h2&gt;
+&lt;p&gt;A version control system is software that facilitates work with changing information. A version control system allows you to store several versions of the same document, if necessary, return to earlier versions, determine who made a particular change and when. Such systems are widely used in software development for storing source codes. However, they can also be used in other areas where work is carried out with a large number of continuously changing electronic documents
+A VCS allows you to return the entire project to its previous state, compare changes from a certain time, see who last changed the module that failed, who created the problem, and more.&lt;/p&gt;
+&lt;h2 id=&#34;git-advantages-and-disadvantages&#34;&gt;Git. Advantages and Disadvantages&lt;/h2&gt;
+&lt;p&gt;Git is one of the most popular version control systems in the world of software development. It was developed by Linus Torvalds in 2005 and is distinguished by its speed, flexibility, and distributed architecture. [1]
+The main features of Git include the ability to create local repositories on the developer&amp;rsquo;s computer, quick branching and merging of changes, effective project management of any size, and good support for working with branching and merging. In addition, Git has extensive capabilities for customizing the workflow and integrating with various hosting services, such as GitHub and Bitbucket. (fig. @fig:002).
+The main difference between Git and any other version control system is the way Git views its data. Basically, most other systems store information as a list of changes for files. These systems treat the stored data as a set of files and changes made to each of these files over time.&lt;/p&gt;
+&lt;h2 id=&#34;advantages-of-git&#34;&gt;Advantages of Git&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;A reliable system for comparing revisions and checking the correctness of data.&lt;/li&gt;
+&lt;li&gt;A flexible system for branching projects and merging branches with each other.&lt;/li&gt;
+&lt;li&gt;The presence of a local repository containing complete information about all changes allows you to maintain full local version control and upload only fully verified changes to the main repository.&lt;/li&gt;
+&lt;li&gt;High performance and speed.&lt;/li&gt;
+&lt;li&gt;A convenient and intuitive set of commands.&lt;/li&gt;
+&lt;li&gt;Multiple graphical shells.&lt;/li&gt;
+&lt;li&gt;The ability to create checkpoints where data is saved not using delta compression, but completely. Due to this, the speed of data recovery is reduced, since the closest checkpoint is taken as a basis, therefore, recovery is carried out from it.&lt;/li&gt;
+&lt;li&gt;Widespread use, easy accessibility and high-quality documentation.&lt;/li&gt;
+&lt;li&gt;The flexibility of the system allows you to conveniently configure it and even create specialized user interfaces based on Git.&lt;/li&gt;
+&lt;li&gt;Universal network access using http, ftp, rsync, ssh and other protocols&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;disadvantages-of-git&#34;&gt;Disadvantages of Git&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Unix-oriented. At the moment, there is no official full-fledged implementation of Git compatible with other operating systems, such as Windows, Mac OS and the like.&lt;/li&gt;
+&lt;li&gt;Possible (but extremely low) matches of the hash code of revisions with different content.&lt;/li&gt;
+&lt;li&gt;Only changes to the entire project are tracked, not individual files, which can be inconvenient when working with large projects containing many unrelated files.&lt;/li&gt;
+&lt;li&gt;When initially (first) creating a repository and synchronizing it with other developers, it will take quite a long time to download the data, especially if the project is large, since it will be necessary to copy the entire repository to the local computer&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Git, due to its speed, flexibility and distributed architecture, is well suited for developing various projects and has extensive customization and integration capabilities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example preprint / working paper</title>
+      <link>http://localhost:1313/publication/preprint/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/preprint/</guid>
+      <description>&lt;p&gt;This work is driven by the results in my &lt;a href=&#34;http://localhost:1313/publication/conference-paper/&#34;&gt;previous paper&lt;/a&gt; on LLMs.&lt;/p&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example journal article</title>
+      <link>http://localhost:1313/publication/journal-article/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/journal-article/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>http://localhost:1313/publication/conference-paper/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/conference-paper/</guid>
+      <description>&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.&lt;/span&gt;
+&lt;/div&gt;
+&lt;div class=&#34;flex px-4 py-3 mb-6 rounded-md bg-primary-100 dark:bg-primary-900&#34;&gt;
+&lt;span class=&#34;pr-3 pt-1 text-primary-600 dark:text-primary-300&#34;&gt;
+  &lt;svg height=&#34;24&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 24 24&#34;&gt;&lt;path fill=&#34;none&#34; stroke=&#34;currentColor&#34; stroke-linecap=&#34;round&#34; stroke-linejoin=&#34;round&#34; stroke-width=&#34;1.5&#34; d=&#34;m11.25 11.25l.041-.02a.75.75 0 0 1 1.063.852l-.708 2.836a.75.75 0 0 0 1.063.853l.041-.021M21 12a9 9 0 1 1-18 0a9 9 0 0 1 18 0m-9-3.75h.008v.008H12z&#34;/&gt;&lt;/svg&gt;
+&lt;/span&gt;
+  &lt;span class=&#34;dark:text-neutral-300&#34;&gt;Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.&lt;/span&gt;
+&lt;/div&gt;
+&lt;p&gt;Add the publication&amp;rsquo;s &lt;strong&gt;full text&lt;/strong&gt; or &lt;strong&gt;supplementary notes&lt;/strong&gt; here. You can use rich formatting such as including &lt;a href=&#34;https://docs.hugoblox.com/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
