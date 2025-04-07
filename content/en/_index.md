@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Tatiana Vladimirovna Bondar"
 date: 2022-10-24
 type: landing
 
@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Download resume
+        url: uploads/резюме.docx
     design:
       css_class: dark
       background:
@@ -35,21 +35,7 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+        I'm a student at RUDN university. I blog about computer science and my experience in that field. Reach out to collaborate.😃
     design:
       view: article-grid
       columns: 2
@@ -102,6 +88,29 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
+  
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:

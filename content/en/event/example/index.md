@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Stand-up concert "Computer science at RUDN"
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Stand-up concert
+event_url: https://chbtkv.com/
 
-location: Hugo Blox Builder HQ
+location: Interclub, RUDN University
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 11 Mikluho-Maklaya st.
+  city: Moscow
+  region: Moscow state
+  postcode: '117198'
+  country: Russia
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Stand-up concert at RUDN. Students talk on their study experience
+abstract: "Is it hard? Yes. Is it worth it? Definitely"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

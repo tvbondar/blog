@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Бондарь Т. В.</title>
+    <title>Мои выступления | Бондарь Т. В.</title>
     <link>http://localhost:1313/ru/event/</link>
       <atom:link href="http://localhost:1313/ru/event/index.xml" rel="self" type="application/rss+xml" />
-    <description>Recent &amp; Upcoming Talks</description>
+    <description>Мои выступления</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Recent &amp; Upcoming Talks</title>
+      <title>Мои выступления</title>
       <link>http://localhost:1313/ru/event/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
+      <title>Стендап-концерт &#34;CS в РУДН&#34;</title>
       <link>http://localhost:1313/ru/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/ru/event/example/</guid>

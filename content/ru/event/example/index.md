@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Стендап-концерт "CS в РУДН"
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: Снендап-концерт
+event_url: hhttps://chbtkv.com/
 
-location: Hugo Blox Builder HQ
+location: Интерклуб РУДН
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: ул. Миклухо-Маклаяб 11
+  city: Москва
+  region: Московская обл.
+  postcode: '117198'
+  country: РФ
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Стендап-концерт в РУДН. Студенты рассказывают об учебе.
+abstract: Это сложно? Да. Оно того стоит? Конечно.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

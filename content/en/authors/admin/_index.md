@@ -10,8 +10,8 @@ first_name: Tatiana
 last_name: Bondar
 
 # Status emoji
-status:
-  icon: ☕️
+status: 
+icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,17 +30,26 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0003-8452-8792
-  - icon: brands/researchgate
-    url: https://www.researchgate.net/profile/Tatiana-Bondar-4?ev=hdr_xprf
   - icon: at-symbol
     url: 'sinopahfox@yandex.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/tvbondar
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0003-8452-8792
+    label: my projects
   - icon: brands/etsy
     url:  https://elibrary.ru/project_user_office.asp
+  - icon: brands/scholar
+    url: https://scholar.google.com/@Sinopah
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/@Sinopah
+  - icon: brands/research
+    url: https://www.researchgate.net/profile/Tatiana-Bondar-4?ev=hdr_xprf
+  - icon: brands/academia
+    url: https://www.academia.edu/@Sinopah
+  - icon: brands/arxiv
+    url: https://www.arxiv.org/@Sinopah
 
 interests:
   - Computer science
@@ -62,36 +71,30 @@ education:
     date_start: 2013-01-09
     date_end: 2024-01-06
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0
 
   - area: sports class
     institution: Sports school for children and teenagers, Stavropol
     date_start: 2014-01-01
     date_end: 2024-01-09
     summary: | 
-      GPA: 3.4/4.0
+      GPA: 5.0/5.0
       
       Courses included:
       - 
-
-experiences:
-  - title: Student
-    company: RUDN
-    location: Moscow, Russia
-    date_start: "2024-09-01"
-    date_end: "2028-08-31"
-    summary: |
-      Spesialization: Computer science
-      Major: data science, programming
       
 work:
   - position: 
-    company_name: 
+    company_name:
     company_url: ''
     company_logo: ''
-    date_start: 
+    date_start: 2020-01-01
     date_end: ''
-    summary: 
+    summary: |2-
+      Responsibilities include:
+      - 
+      - 
+      -  
     
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -110,10 +113,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running
-        description: 'I love being active'
-        percent: 60
-        icon: person-simple-walk
       - name: Cats
         description: 'I love my cat'
         percent: 100
@@ -139,12 +138,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Historical antropology
-    url: https://stepik.org/course/Историческая-антропология-720/
+  - title: 
+    url: 
     date: '2025-02-01'
-    awarder: Stepik
+    awarder: 
     summary: |
-        Прошла курс по исторической антропологии, получила сертификат с отличием 
+        
 ---
 
 ## About Me

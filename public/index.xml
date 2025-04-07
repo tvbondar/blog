@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Бондарь Т. В.</title>
+    <title>Tatiana Vladimirovna Bondar | Бондарь Т. В.</title>
     <link>http://localhost:1313/</link>
       <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <description>Бондарь Т. В.</description>
+    <description>Tatiana Vladimirovna Bondar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 24 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_645fa481986063ef.png</url>
-      <title>Бондарь Т. В.</title>
+      <title>Tatiana Vladimirovna Bondar</title>
       <link>http://localhost:1313/</link>
     </image>
     
     <item>
-      <title>Example Talk</title>
+      <title>Stand-up concert &#34;Computer science at RUDN&#34;</title>
       <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/example/</guid>
@@ -30,40 +30,6 @@
 &lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Further event details, including &lt;a href=&#34;https://docs.hugoblox.com/reference/markdown/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post4/</link>
-      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post4/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#march-8&#34;&gt;March 8&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#pampered-myself&#34;&gt;Pampered myself&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#day-off&#34;&gt;Day off&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#rating&#34;&gt;Rating&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#910-still-have-a-lot-to-do&#34;&gt;9/10, still have a lot to do&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;march-8&#34;&gt;March 8&lt;/h2&gt;
-&lt;p&gt;On the holiday, Max decided to take revenge on me for all the good things and took me to the roller coaster at an amusement park. Let&amp;rsquo;s skip the fact that the screaming was a mile away. Then I was compensated for the moral damage with a bouquet of dried flowers and a trip to a restaurant.&lt;/p&gt;
-&lt;h2 id=&#34;pampered-myself&#34;&gt;Pampered myself&lt;/h2&gt;
-&lt;p&gt;Finally ordered myself a new face wash, toner, creams and masks. All week after classes in the evening I arranged spa treatments for myself.&lt;/p&gt;
-&lt;h2 id=&#34;day-off&#34;&gt;Day off&lt;/h2&gt;
-&lt;p&gt;I went to the gym, trained, caught zen&lt;/p&gt;
-&lt;h2 id=&#34;rating&#34;&gt;Rating&lt;/h2&gt;
-&lt;h2 id=&#34;910-still-have-a-lot-to-do&#34;&gt;9/10, still have a lot to do&lt;/h2&gt;
 </description>
     </item>
     
@@ -102,139 +68,6 @@ In 2007, work began on the next C language standard: C1x.&lt;/p&gt;
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/experience/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post1/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#ramt&#34;&gt;RAMT&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#classes&#34;&gt;Classes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#rating-of-the-week&#34;&gt;Rating of the week&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ill-give-it-610-i-spend-a-lot-of-time-on-assignments-now-as-soon-as-i-finish-them-i-need-to-go-and-unwind&#34;&gt;I&amp;rsquo;ll give it 6/10. I spend a lot of time on assignments now. As soon as I finish them, I need to go and unwind.&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;ramt&#34;&gt;RAMT&lt;/h2&gt;
-&lt;p&gt;Back in late December we bought tickets to RAMT for the operetta &amp;ldquo;Scarlet Sails&amp;rdquo;. We went on the weekend, generally liked the costumes and songs. I was disappointed in the scenery, and I also didn&amp;rsquo;t understand why Gray looks like he&amp;rsquo;s 20 years older than Assol and why he didn&amp;rsquo;t buy scarlet fabric for the sails, like in the story, but just poured wine on the white sails. I didn&amp;rsquo;t get the joke, why waste wine, all the romance was ruined. Rating: 7/10&lt;/p&gt;
-&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
-&lt;p&gt;Doing lab work on operating systems until 2am is already normal. It&amp;rsquo;s terribly difficult, a lot of time is wasted, I hope to cope with it faster.&lt;/p&gt;
-&lt;h2 id=&#34;classes&#34;&gt;Classes&lt;/h2&gt;
-&lt;p&gt;The schedule is good this semester, lots of online classes, 3 days of in-person study with 2 classes. I saw my classmates, I&amp;rsquo;m glad that now there is a lot of time for self-study.&lt;/p&gt;
-&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
-&lt;h2 id=&#34;ill-give-it-610-i-spend-a-lot-of-time-on-assignments-now-as-soon-as-i-finish-them-i-need-to-go-and-unwind&#34;&gt;I&amp;rsquo;ll give it 6/10. I spend a lot of time on assignments now. As soon as I finish them, I need to go and unwind.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post3/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post3/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#maslenitsa&#34;&gt;Maslenitsa&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#treats&#34;&gt;Treats&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#rating-of-the-week&#34;&gt;Rating of the week&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ill-give-it-810-it-became-more-interesting&#34;&gt;I&amp;rsquo;ll give it 8/10. It became more interesting.&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;maslenitsa&#34;&gt;Maslenitsa&lt;/h2&gt;
-&lt;p&gt;The other day, Maslenitsa was held near the main building with songs and dances. Everyone was given pancakes and tea. It turned out very atmospheric and beautiful, I even wanted to bake pancakes at home.&lt;/p&gt;
-&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
-&lt;p&gt;We continue to do lab work on operating systems until two in the morning. It&amp;rsquo;s terribly difficult, a lot of time is wasted, but there is progress&lt;/p&gt;
-&lt;h2 id=&#34;treats&#34;&gt;Treats&lt;/h2&gt;
-&lt;p&gt;On Thursday, we congratulated our classmates on February 23. We ordered pizza and sat together in the dining room, it was nice.&lt;/p&gt;
-&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
-&lt;h2 id=&#34;ill-give-it-810-it-became-more-interesting&#34;&gt;I&amp;rsquo;ll give it 8/10. It became more interesting.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post6/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post6/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#march-8th-in-the-main-building&#34;&gt;March 8th in the main building&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#gifts-for-girls&#34;&gt;Gifts for girls&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#going-to-the-cinema&#34;&gt;Going to the cinema&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#result&#34;&gt;Result&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;march-8th-in-the-main-building&#34;&gt;March 8th in the main building&lt;/h2&gt;
-&lt;p&gt;For the holiday, the main building held a campaign with the distribution of cute stickers and you could send a postcard with wishes to any person from the university. I like the idea, very cute&lt;/p&gt;
-&lt;h2 id=&#34;gifts-for-girls&#34;&gt;Gifts for girls&lt;/h2&gt;
-&lt;p&gt;I made teddy bears for the girls and gave them. The bears turned out crooked, but cute.&lt;/p&gt;
-&lt;h2 id=&#34;going-to-the-cinema&#34;&gt;Going to the cinema&lt;/h2&gt;
-&lt;p&gt;Went with my boyfriend to see Deadpool 3. I liked it, and this little bugger fell asleep in the middle of the screening. I was offended.&lt;/p&gt;
-&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
-&lt;p&gt;A very calm and sweet week, 9/10&lt;/p&gt;
-&lt;hr&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post9/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post9/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#everything-is-fine&#34;&gt;Everything is fine&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#life-is-wonderful&#34;&gt;Life is wonderful&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#this-is-the-last-post-for-now&#34;&gt;This is the last post for now&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;everything-is-fine&#34;&gt;Everything is fine&lt;/h2&gt;
-&lt;p&gt;I will finish this project today. The week went well. I walked around the city a lot and bought groceries&lt;/p&gt;
-&lt;h2 id=&#34;life-is-wonderful&#34;&gt;Life is wonderful&lt;/h2&gt;
-&lt;p&gt;I just need to write a little more and everything will be great&lt;/p&gt;
-&lt;h2 id=&#34;this-is-the-last-post-for-now&#34;&gt;This is the last post for now&lt;/h2&gt;
-&lt;p&gt;Thanks for your attention&lt;/p&gt;
-&lt;hr&gt;
-</description>
     </item>
     
     <item>
@@ -289,55 +122,6 @@ You can use the following Makefile
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;h2 id=&#34;markdown-is-easily-converted-to-html-opens-in-all-text-editors-and-is-easy-to-read-even-in-the-form-of-source-code-at-the-same-time-it-is-much-easier-to-write-in-it-than-in-other-markup-languages-html-xml-tex-and-so-on&#34;&gt;The Markdown markup language is widely used on the web. It is used to write readme files and documentation, and its operating principles are used to format messages and publications in instant messengers and social networks.
 Markdown is easily converted to HTML, opens in all text editors and is easy to read even in the form of source code. At the same time, it is much easier to write in it than in other markup languages: HTML, XML, TeX, and so on.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Report design</title>
-      <link>http://localhost:1313/post/post5/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post5/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#title-page&#34;&gt;Title page&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#objective-of-the-work&#34;&gt;Objective of the work&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#task&#34;&gt;Task&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#theoretical-introduction&#34;&gt;Theoretical introduction&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#completion-of-the-laboratory-work&#34;&gt;Completion of the laboratory work&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#conclusions&#34;&gt;Conclusions&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#reports-must-be-prepared-for-each-laboratory-work&#34;&gt;Reports must be prepared for each laboratory work&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;title-page&#34;&gt;Title page&lt;/h2&gt;
-&lt;p&gt;We write the topic of the work, the author and the subject&lt;/p&gt;
-&lt;h2 id=&#34;objective-of-the-work&#34;&gt;Objective of the work&lt;/h2&gt;
-&lt;p&gt;Here is the formulation of the objective of the lab work. The formulations of the
-objective for each lab work are given in the methodological
-instructions.&lt;/p&gt;
-&lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;
-&lt;p&gt;Here is a description of the task in accordance with the recommendations
-of the methodological manual and the issued version.&lt;/p&gt;
-&lt;h2 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h2&gt;
-&lt;p&gt;Here are described the theoretical aspects related to the work.&lt;/p&gt;
-&lt;h2 id=&#34;completion-of-the-laboratory-work&#34;&gt;Completion of the laboratory work&lt;/h2&gt;
-&lt;p&gt;The actions performed are described, as an illustration a link to the illustration is given&lt;/p&gt;
-&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
-&lt;p&gt;Here is a brief description of the results of the work done.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;A list of used literature is provided&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;h2 id=&#34;reports-must-be-prepared-for-each-laboratory-work&#34;&gt;Reports must be prepared for each laboratory work&lt;/h2&gt;
 </description>
     </item>
     

@@ -11,7 +11,7 @@ last_name: Бондарь
 
 # Status emoji
 status:
-  icon: ☕️
+icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -30,17 +30,26 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: brands/orcid
-    url: https://orcid.org/my-orcid?orcid=0009-0003-8452-8792
-  - icon: brands/researchgate
-    url: https://www.researchgate.net/profile/Tatiana-Bondar-4?ev=hdr_xprf
   - icon: at-symbol
     url: 'sinopahfox@yandex.com'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/tvbondar
+  - icon: brands/orcid
+    url: https://orcid.org/my-orcid?orcid=0009-0003-8452-8792
+    label: my projects
   - icon: brands/etsy
     url:  https://elibrary.ru/project_user_office.asp
+  - icon: brands/scholar
+    url: https://scholar.google.com/@Sinopah
+  - icon: brands/mendeley
+    url: https://www.mendeley.com/@Sinopah
+  - icon: brands/research
+    url: https://www.researchgate.net/profile/Tatiana-Bondar-4?ev=hdr_xprf
+  - icon: brands/academia
+    url: https://www.academia.edu/@Sinopah
+  - icon: brands/arxiv
+    url: https://www.arxiv.org/@Sinopah
 
 interests:
   - Компьютерные науки
@@ -62,75 +71,65 @@ education:
     date_start: 2013-01-09
     date_end: 2024-01-06
     summary: |
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0
 
   - area: Спортивное обучение
     institution: ГБОУ ДО "Детско-юношеская спортивная школа" г. Ставрополя
     date_start: 2014-01-01
     date_end: 2024-01-09
     summary: | 
-      GPA: 3.4/4.0
+      GPA: 5.0/5.0
       
       Courses included:
       - 
-
-experiences:
-  - title: Студент
-    company: Российский университет дружбы народов (РУДН)
-    location: Москва, Россия
-    date_start: "2024-09-01"
-    date_end: "2028-08-31"
-    summary: |
-      Специализация: компьютерные науки.
-      Основные предметы: программирование, алгоритмы, базы данных.
       
 work:
   - position: 
-    company_name: 
+    company_name:
     company_url: ''
     company_logo: ''
-    date_start: 
+    date_start: 2020-01-01
     date_end: ''
-    summary: 
+    summary: |2-
+      В обязанности входит:
+      - 
+      - 
+      -  
     
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Skills
+  - name: Навыки
     items:
-      - name: languages
-        description: 'I fluently speak English and know some French and German'
+      - name: языки
+        description: 'Английский, немецкий, французский'
         percent: 90
         icon: language
-      - name: Programming
-        description: 'I am learning Python and C++'
+      - name: Программирование
+        description: 'Изучаю Python и C++'
         percent: 60
         icon: keyboard
-  - name: Hobbies
+  - name: Хобби
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Running
-        description: 'I love being active'
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: 'I love my cat'
+      - name: Животные
+        description: 'Люблю кошек'
         percent: 100
         icon: cat
-      - name: Photography
-        description: 'I like to capture best moments of my life'
+      - name: Фотография
+        description: 'Сохраняю лучшие моменты жизни'
         percent: 80
         icon: camera
 
 languages:
-  - name: English
+  - name: Английский
     percent: 90
-  - name: Russian
+  - name: Русский
     percent: 100
-  - name: French
+  - name: Французский
     percent: 30
-  - name: German
+  - name: Немецкий
     percent: 40
         
 
@@ -139,12 +138,12 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Историческая антропология 
-    url: https://stepik.org/course/Историческая-антропология-720/
+  - title: 
+    url: 
     date: '2025-02-01'
-    awarder: Stepik
+    awarder: 
     summary: |
-        Прошла курс по исторической антропологии, получила сертификат с отличием 
+        
 ---
 
 ## About Me

@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>Example Talk</title>
+      <title>Stand-up concert &#34;Computer science at RUDN&#34;</title>
       <link>http://localhost:1313/event/example/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       <guid>http://localhost:1313/event/example/</guid>
@@ -34,137 +34,30 @@
     </item>
     
     <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post4/</link>
-      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post4/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#march-8&#34;&gt;March 8&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#pampered-myself&#34;&gt;Pampered myself&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#day-off&#34;&gt;Day off&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#rating&#34;&gt;Rating&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#910-still-have-a-lot-to-do&#34;&gt;9/10, still have a lot to do&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;march-8&#34;&gt;March 8&lt;/h2&gt;
-&lt;p&gt;On the holiday, Max decided to take revenge on me for all the good things and took me to the roller coaster at an amusement park. Let&amp;rsquo;s skip the fact that the screaming was a mile away. Then I was compensated for the moral damage with a bouquet of dried flowers and a trip to a restaurant.&lt;/p&gt;
-&lt;h2 id=&#34;pampered-myself&#34;&gt;Pampered myself&lt;/h2&gt;
-&lt;p&gt;Finally ordered myself a new face wash, toner, creams and masks. All week after classes in the evening I arranged spa treatments for myself.&lt;/p&gt;
-&lt;h2 id=&#34;day-off&#34;&gt;Day off&lt;/h2&gt;
-&lt;p&gt;I went to the gym, trained, caught zen&lt;/p&gt;
-&lt;h2 id=&#34;rating&#34;&gt;Rating&lt;/h2&gt;
-&lt;h2 id=&#34;910-still-have-a-lot-to-do&#34;&gt;9/10, still have a lot to do&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <title>C language</title>
+      <link>http://localhost:1313/post/post8/</link>
       <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>http://localhost:1313/post/post8/</guid>
       <description>
 
 
 &lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
   &lt;summary&gt;Table of Contents&lt;/summary&gt;
   &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#ramt&#34;&gt;RAMT&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#classes&#34;&gt;Classes&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#rating-of-the-week&#34;&gt;Rating of the week&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ill-give-it-610-i-spend-a-lot-of-time-on-assignments-now-as-soon-as-i-finish-them-i-need-to-go-and-unwind&#34;&gt;I&amp;rsquo;ll give it 6/10. I spend a lot of time on assignments now. As soon as I finish them, I need to go and unwind.&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;&lt;/nav&gt;
   &lt;/div&gt;
 &lt;/details&gt;
 
-&lt;h2 id=&#34;ramt&#34;&gt;RAMT&lt;/h2&gt;
-&lt;p&gt;Back in late December we bought tickets to RAMT for the operetta &amp;ldquo;Scarlet Sails&amp;rdquo;. We went on the weekend, generally liked the costumes and songs. I was disappointed in the scenery, and I also didn&amp;rsquo;t understand why Gray looks like he&amp;rsquo;s 20 years older than Assol and why he didn&amp;rsquo;t buy scarlet fabric for the sails, like in the story, but just poured wine on the white sails. I didn&amp;rsquo;t get the joke, why waste wine, all the romance was ruined. Rating: 7/10&lt;/p&gt;
-&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
-&lt;p&gt;Doing lab work on operating systems until 2am is already normal. It&amp;rsquo;s terribly difficult, a lot of time is wasted, I hope to cope with it faster.&lt;/p&gt;
-&lt;h2 id=&#34;classes&#34;&gt;Classes&lt;/h2&gt;
-&lt;p&gt;The schedule is good this semester, lots of online classes, 3 days of in-person study with 2 classes. I saw my classmates, I&amp;rsquo;m glad that now there is a lot of time for self-study.&lt;/p&gt;
-&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
-&lt;h2 id=&#34;ill-give-it-610-i-spend-a-lot-of-time-on-assignments-now-as-soon-as-i-finish-them-i-need-to-go-and-unwind&#34;&gt;I&amp;rsquo;ll give it 6/10. I spend a lot of time on assignments now. As soon as I finish them, I need to go and unwind.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post3/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post3/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#maslenitsa&#34;&gt;Maslenitsa&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#homework&#34;&gt;Homework&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#treats&#34;&gt;Treats&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#rating-of-the-week&#34;&gt;Rating of the week&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#ill-give-it-810-it-became-more-interesting&#34;&gt;I&amp;rsquo;ll give it 8/10. It became more interesting.&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;maslenitsa&#34;&gt;Maslenitsa&lt;/h2&gt;
-&lt;p&gt;The other day, Maslenitsa was held near the main building with songs and dances. Everyone was given pancakes and tea. It turned out very atmospheric and beautiful, I even wanted to bake pancakes at home.&lt;/p&gt;
-&lt;h2 id=&#34;homework&#34;&gt;Homework&lt;/h2&gt;
-&lt;p&gt;We continue to do lab work on operating systems until two in the morning. It&amp;rsquo;s terribly difficult, a lot of time is wasted, but there is progress&lt;/p&gt;
-&lt;h2 id=&#34;treats&#34;&gt;Treats&lt;/h2&gt;
-&lt;p&gt;On Thursday, we congratulated our classmates on February 23. We ordered pizza and sat together in the dining room, it was nice.&lt;/p&gt;
-&lt;h2 id=&#34;rating-of-the-week&#34;&gt;Rating of the week&lt;/h2&gt;
-&lt;h2 id=&#34;ill-give-it-810-it-became-more-interesting&#34;&gt;I&amp;rsquo;ll give it 8/10. It became more interesting.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Last week</title>
-      <link>http://localhost:1313/post/post6/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post6/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#march-8th-in-the-main-building&#34;&gt;March 8th in the main building&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#gifts-for-girls&#34;&gt;Gifts for girls&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#going-to-the-cinema&#34;&gt;Going to the cinema&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#result&#34;&gt;Result&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;march-8th-in-the-main-building&#34;&gt;March 8th in the main building&lt;/h2&gt;
-&lt;p&gt;For the holiday, the main building held a campaign with the distribution of cute stickers and you could send a postcard with wishes to any person from the university. I like the idea, very cute&lt;/p&gt;
-&lt;h2 id=&#34;gifts-for-girls&#34;&gt;Gifts for girls&lt;/h2&gt;
-&lt;p&gt;I made teddy bears for the girls and gave them. The bears turned out crooked, but cute.&lt;/p&gt;
-&lt;h2 id=&#34;going-to-the-cinema&#34;&gt;Going to the cinema&lt;/h2&gt;
-&lt;p&gt;Went with my boyfriend to see Deadpool 3. I liked it, and this little bugger fell asleep in the middle of the screening. I was offended.&lt;/p&gt;
-&lt;h2 id=&#34;result&#34;&gt;Result&lt;/h2&gt;
-&lt;p&gt;A very calm and sweet week, 9/10&lt;/p&gt;
+&lt;p&gt;This language has gained immense popularity all over the world and has had a significant influence on many other programming languages. It is the predecessor of such languages ​​as C++, C#, Java.
+The C language has its roots in the ALGOL language (stands for ALGorithmic Language), which was created in 1958 by a committee of European and American computer scientists at a meeting in 1958 at the Swiss Federal Institute of Technology in Zurich. The language was a response to some of the shortcomings of the FORTRAN language and an attempt to correct them.
+Inspired by the ALGOL-60 language, the Cambridge University Mathematical Laboratory, together with the Computer Department of the University of London, created the CPL (Combined Programming Language) language in 1963.
+The CPL language was considered complex, and in response to this, Martin Richardson created the BCPL language in 1966, the main purpose of which was to write compilers. Nowadays it is hardly used, but at one time it played an important role due to its good portability.
+BCPL served as an ancestor for the B language, developed in 1969 at the already familiar AT&amp;amp;T Bell Telephone Laboratories, by the equally familiar Ken Thompson and Dance Ritchie.
+The B language was used to write the earliest versions of UNIX. It was this language that served as the immediate predecessor of the C language.
+The C programming language was developed within the walls of Bell Labs between 1969 and 1973. As Ritchie himself admitted, the most active period of creativity was in 1972.
+The success of C is mainly due to the fact that a significant part of the UNIX operating system was written in it, which eventually gained great popularity. If we count the number of operating systems currently in use, developed on the basis of UNIX, then it is the most widespread system in the world. Due to its prevalence, as well as the fact that at the moment the volume of the operating system is measured in millions of lines of code (for example, the latest versions of Linux contain more than 10,000,000 lines of code), the task of rewriting UNIX into another language becomes almost impossible (it should also be taken into account that errors will inevitably arise during manual rewriting, which will significantly reduce the stability of the work, and when translating using software, the performance of the code will suffer). In addition, the C language, being close to the hardware implementation of the computer, allows you to squeeze much more out of it than many other programming languages. This circumstance shows the senselessness of translating UNIX into another language. Thus, if other programming languages ​​​​may disappear over time, giving way to new technologies, the C language will live as long as UNIX lives. That is, as long as computers exist in the form in which we imagine them. In the late 1970s, the C language began to displace BASIC, which at that time was the leading language in the field of microcomputer programming. In the 1980s, it was adapted to the IBM-PC architecture, which led to a significant jump in its popularity. At the same time, Bjarne Stroustrup began developing a programming language that would combine the syntax of the popular C language and the concept of object-oriented programming, which was becoming increasingly popular, so the development of the C++ language began. While C was gaining more and more popularity, compilers for it were released by different companies, and often a program that compiled on the compiler of one company did not compile on the compiler of another. All this was due to the lack of a clearly defined C language standard. All developers were guided by the book by Kernighan and Ritchie, but interpreted it in their own way. The American National Standards Institute (ANSI) took up the development of the C language standard. The first version of the standard was released in 1989 and was called C89. In 1990, having made minor changes to the standard, it was adopted by the International Organization for Standardization ISO. At that time, it became known under the code ISO/IEC 9899:1990, but among programmers, the name associated with the year of adoption of the standard has become established: C90. The latest version of the standard is ISO/IEC 9899:1999, also known as C99, which was adopted in 2000.
+The C99 standard is now supported to a greater or lesser extent by all modern C compilers. Ideally, code written in C in compliance with the standards and without the use of hardware- and system-dependent calls becomes both hardware- and platform-independent code.
+In 2007, work began on the next C language standard: C1x.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
@@ -221,55 +114,6 @@ You can use the following Makefile
 &lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
 &lt;h2 id=&#34;markdown-is-easily-converted-to-html-opens-in-all-text-editors-and-is-easy-to-read-even-in-the-form-of-source-code-at-the-same-time-it-is-much-easier-to-write-in-it-than-in-other-markup-languages-html-xml-tex-and-so-on&#34;&gt;The Markdown markup language is widely used on the web. It is used to write readme files and documentation, and its operating principles are used to format messages and publications in instant messengers and social networks.
 Markdown is easily converted to HTML, opens in all text editors and is easy to read even in the form of source code. At the same time, it is much easier to write in it than in other markup languages: HTML, XML, TeX, and so on.&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Report design</title>
-      <link>http://localhost:1313/post/post5/</link>
-      <pubDate>Thu, 27 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/post5/</guid>
-      <description>
-
-
-&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
-  &lt;summary&gt;Table of Contents&lt;/summary&gt;
-  &lt;div class=&#34;text-sm&#34;&gt;
-  &lt;nav id=&#34;TableOfContents&#34;&gt;
-  &lt;ul&gt;
-    &lt;li&gt;&lt;a href=&#34;#title-page&#34;&gt;Title page&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#objective-of-the-work&#34;&gt;Objective of the work&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#task&#34;&gt;Task&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#theoretical-introduction&#34;&gt;Theoretical introduction&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#completion-of-the-laboratory-work&#34;&gt;Completion of the laboratory work&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#conclusions&#34;&gt;Conclusions&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#references&#34;&gt;References&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#summary&#34;&gt;Summary&lt;/a&gt;&lt;/li&gt;
-    &lt;li&gt;&lt;a href=&#34;#reports-must-be-prepared-for-each-laboratory-work&#34;&gt;Reports must be prepared for each laboratory work&lt;/a&gt;&lt;/li&gt;
-  &lt;/ul&gt;
-&lt;/nav&gt;
-  &lt;/div&gt;
-&lt;/details&gt;
-
-&lt;h2 id=&#34;title-page&#34;&gt;Title page&lt;/h2&gt;
-&lt;p&gt;We write the topic of the work, the author and the subject&lt;/p&gt;
-&lt;h2 id=&#34;objective-of-the-work&#34;&gt;Objective of the work&lt;/h2&gt;
-&lt;p&gt;Here is the formulation of the objective of the lab work. The formulations of the
-objective for each lab work are given in the methodological
-instructions.&lt;/p&gt;
-&lt;h2 id=&#34;task&#34;&gt;Task&lt;/h2&gt;
-&lt;p&gt;Here is a description of the task in accordance with the recommendations
-of the methodological manual and the issued version.&lt;/p&gt;
-&lt;h2 id=&#34;theoretical-introduction&#34;&gt;Theoretical introduction&lt;/h2&gt;
-&lt;p&gt;Here are described the theoretical aspects related to the work.&lt;/p&gt;
-&lt;h2 id=&#34;completion-of-the-laboratory-work&#34;&gt;Completion of the laboratory work&lt;/h2&gt;
-&lt;p&gt;The actions performed are described, as an illustration a link to the illustration is given&lt;/p&gt;
-&lt;h2 id=&#34;conclusions&#34;&gt;Conclusions&lt;/h2&gt;
-&lt;p&gt;Here is a brief description of the results of the work done.&lt;/p&gt;
-&lt;h2 id=&#34;references&#34;&gt;References&lt;/h2&gt;
-&lt;p&gt;A list of used literature is provided&lt;/p&gt;
-&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
-&lt;h2 id=&#34;reports-must-be-prepared-for-each-laboratory-work&#34;&gt;Reports must be prepared for each laboratory work&lt;/h2&gt;
 </description>
     </item>
     

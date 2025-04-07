@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
+title: "Татьяна Владимировна Бондарь"
 date: 2022-10-24
 type: landing
 
@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Скачать резюме
+        url: uploads/резюме.docx
     design:
       css_class: dark
       background:
@@ -32,30 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'Мои исследования'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
-    design:
-      columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
+        Я студент РУДН. Этот сайт создан для публикации моих учебных проектов. 
     design:
       view: article-grid
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Последние публикации
       text: ""
       filters:
         folders:
@@ -66,7 +52,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Мои выступления
       filters:
         folders:
           - event
@@ -76,7 +62,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: Посты
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
@@ -102,6 +88,28 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+  - block: resume-experience
+    content:
+      username: admin
+    design:
+      # Hugo date format
+      date_format: 'January 2006'
+      # Education or Experience section first?
+      is_education_first: false
+  - block: resume-skills
+    content:
+      title: Skills & Hobbies
+      username: admin
+    design:
+      show_skill_percentage: false
+  - block: resume-awards
+    content:
+      title: Awards
+      username: admin
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin      
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
